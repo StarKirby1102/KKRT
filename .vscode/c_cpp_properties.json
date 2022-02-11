@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/starkirby/KKRT/cryptoTools/Common/**",
+                "/home/starkirby/KKRT/cryptoTools/Crypto/**",
+                "/home/starkirby/KKRT/cryptoTools/Network/**",
+                "/home/starkirby/KKRT/libOTe/Base/**",
+                "/home/starkirby/KKRT/libOTe/NChooseOne/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
